@@ -1,0 +1,94 @@
+{
+    "productos": [
+      {
+        "id":"1",
+        "nombre": "Base de maquillaje líquida",
+        "tipo": "Facial",
+        "marca": "Maybelline",
+        "tono": "Natural Beige",
+        "precio": 15.99,
+        "cantidad": 50,
+        "unidad": "ml",
+        "imagen_url": "https://media.istockphoto.com/id/2151690538/es/foto/beauty-face.jpg?s=1024x1024&w=is&k=20&c=Cil1KYXXjeRdzDx4zt2dyxKJLcyeLuGUvkFz4gJZs60="
+      },
+      {
+        "id":"2",
+        "nombre": "Paleta de sombras de ojos",
+        "tipo": "Ojos",
+        "marca": "Urban Decay",
+        "tono": "Naked",
+        "precio": 45.50,
+        "cantidad": 12,
+        "unidad": "g",
+        "imagen_url": "https://cdn.pixabay.com/photo/2019/10/18/07/28/eye-shadow-4558443_960_720.jpg"
+      },
+      {
+        "id":"3",
+        "nombre": "Lápiz labial mate",
+        "tipo": "Labial",
+        "marca": "MAC",
+        "tono": "Ruby Woo",
+        "precio": 20.75,
+        "cantidad": 4,
+        "unidad": "g",
+        "imagen_url": "https://cdn.pixabay.com/photo/2019/03/01/11/33/clamy-lipstick-4027732_960_720.jpg"
+      },
+      {
+        "id":"4",
+        "nombre": "Corrector de ojeras",
+        "tipo": "Facial",
+        "marca": "NARS",
+        "tono": "Custard",
+        "precio": 29.99,
+        "cantidad": 10,
+        "unidad": "ml",
+        "imagen_url": "https://cdn.pixabay.com/photo/2016/01/20/04/36/cosmetics-1150881_1280.jpg"
+      },
+      {
+        "id":"5",
+        "nombre": "Máscara de pestañas",
+        "tipo": "Ojos",
+        "marca": "L'Oréal",
+        "tipo_cepillo": "Volumen",
+        "precio": 12.49,
+        "cantidad": 8,
+        "unidad": "ml",
+        "imagen_url": "https://media.istockphoto.com/id/1460260461/es/foto/el-cepillo-de-maquillaje-limpio-rosa-para-r%C3%ADmel-se-encuentra-en-el-tubo-abierto-cerca-de-tubos.jpg?s=1024x1024&w=is&k=20&c=oQFVU-ecRKRrXBrtYVufoULQJRd7xpnciWeZ2j4GhO0="
+      },
+      {
+        "id":"6",
+        "nombre": "Polvo compacto",
+        "tipo": "Facial",
+        "marca": "Rimmel London",
+        "tono": "Transparente",
+        "precio": 10.99,
+        "cantidad": 10,
+        "unidad": "g",
+        "imagen_url": "https://example.com/polvo_compacto.jpg"
+      },
+      {
+        "id":"7",
+        "nombre": "Rubor en crema",
+        "tipo": "Facial",
+        "marca": "NYX",
+        "tono": "Rose Petal",
+        "precio": 14.25,
+        "cantidad": 6,
+        "unidad": "g",
+        "imagen_url": "https://example.com/rubor_crema.jpg"
+      },
+      {
+        "id":"8",
+        "nombre": "Gel para cejas",
+        "tipo": "Cejas",
+        "marca": "Anastasia Beverly Hills",
+        "tono": "Clear",
+        "precio": 22.00,
+        "cantidad": 5,
+        "unidad": "ml",
+        "imagen_url": "https://example.com/gel_cejas.jpg"
+      }
+      
+    ]
+  }
+  
